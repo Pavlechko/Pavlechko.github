@@ -1,0 +1,40 @@
+html {
+	font-size: 10px; /* px означає "пікселі": базовий шрифт буде 10 пікселів в висоту */
+	font-family: 'Indie Flower', cursive;
+	font-family: 'Charm', cursive;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+html {
+	background-color: #B8FAB1;
+}
+
+body {
+	width: 700px;
+	margin: 0 auto;
+	background-color: #FF9500;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #B8FAB1;
+	text-shadow: 5px 5px 3px black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
